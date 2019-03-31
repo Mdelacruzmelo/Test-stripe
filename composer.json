@@ -1,0 +1,13 @@
+{
+    "name": "vendor/test-stripe",
+    "description": "Description of project Test-Stripe.",
+    "authors": [
+        {
+            "name": "mdela",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "stripe/stripe-php": "^6.31"
+    }
+}
